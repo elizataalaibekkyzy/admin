@@ -8,7 +8,7 @@ anger, disgust, fear, happiness, normality, sadness, surprise.
 
 The picture below show how the "upload image" button works. 
 
-![exploreFile](https://user-images.githubusercontent.com/44774108/150683743-45e3831e-191a-408a-88b4-cc8071190650.png)
+<img width="1025" alt="Screen Shot 2022-01-23 at 9 48 47 PM" src="https://user-images.githubusercontent.com/44774108/150697457-ce937a65-071b-49fe-8f8f-005df4099b18.png">
 
 The algorithm detected a neutral facial expression on the picture.
 ![neutral](https://user-images.githubusercontent.com/44774108/150683756-211e5900-9226-44d7-a85b-229ae4146138.png)
