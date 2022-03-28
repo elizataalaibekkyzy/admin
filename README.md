@@ -6,7 +6,7 @@ The main window has a label for uploading images and three buttons. The name of 
 The "upload image" button opens a file browser that allows the user to select an image to identify one of seven emotions:
 anger, disgust, fear, happiness, normality, sadness, surprise.
 
-The picture below show how the "upload image" button works. 
+The pictures below show how the "upload image" button works. 
 
 <img width="1025" alt="Screen Shot 2022-01-23 at 9 48 47 PM" src="https://user-images.githubusercontent.com/44774108/150697457-ce937a65-071b-49fe-8f8f-005df4099b18.png">
 
